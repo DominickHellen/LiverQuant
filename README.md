@@ -8,12 +8,12 @@ This repository contains all files for BioProtocols DOI:#. Included are scripts 
 “Liver-restricted deletion of the biliary atresia candidate gene Pkd1l1 causes bile duct dysmorphogenesis and ciliopathy"
 
 Journal:
-HEPATOLOGY
+>HEPATOLOGY
 
 Figures where protocol was used:
-2 , 3, & 7
+>2 , 3, & 7
 
-Link: https://journals.lww.com/hep/Abstract/9900/Liver_restricted_deletion_of_the_biliary_atresia.241.aspx
+>Link: https://journals.lww.com/hep/Abstract/9900/Liver_restricted_deletion_of_the_biliary_atresia.241.aspx
 
 Citation:
-Hellen, D. J., Bennett, A., Malla, S., Klindt, C., Rao, A., Dawson, P. A., & Karpen, S. J. (2023). Liver-restricted deletion of the biliary atresia candidate gene Pkd1l1 causes bile duct dysmorphogenesis and ciliopathy. Hepatology (Baltimore, Md.), 10.1097/HEP.0000000000000029. Advance online publication. https://doi.org/10.1097/HEP.0000000000000029
+>>Hellen, D. J., Bennett, A., Malla, S., Klindt, C., Rao, A., Dawson, P. A., & Karpen, S. J. (2023). Liver-restricted deletion of the biliary atresia candidate gene Pkd1l1 causes bile duct dysmorphogenesis and ciliopathy. Hepatology (Baltimore, Md.), 10.1097/HEP.0000000000000029. Advance online publication. https://doi.org/10.1097/HEP.0000000000000029

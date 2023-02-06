@@ -5,7 +5,7 @@ This repository contains all files for BioProtocols DOI:#. Included are scripts 
 >>Briefly: After creating a new project within Qupath, move desired '.groovy' files into the 'scripts' folder. Within Qupath, the scripts should now be available to use. Once outlined regions of interest have been optimized for intensity (using the intensity script), click the detection script that matches the desired analysis (i.e. Macrophages, Cholangiocytes, Fibrosis), and then run. 
 
 **Scripts used for original research paper:**
-“Liver-restricted deletion of the biliary atresia candidate gene Pkd1l1 causes bile duct dysmorphogenesis and ciliopathy"
+>“Liver-restricted deletion of the biliary atresia candidate gene Pkd1l1 causes bile duct dysmorphogenesis and ciliopathy"
 
 Journal:
 >HEPATOLOGY

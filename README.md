@@ -2,8 +2,8 @@
 This repository contains all files for BioProtocols DOI:#. Included are scripts for automated batch quantification of whole-slide scanned liver sections for the purpose of understanding differences in pathology within development and disease. 
 
 Graphical Abstract:
-![Graphical-Abstract-021123-dh](https://user-images.githubusercontent.com/88243822/224508888-7ab78e51-59ba-4cd0-aaae-8a96088757d6.jpg)
 
+![Uploading Graphical-Abstract-042123-dh.png…]()
 
 **Detailed use of each script is outlined within BioProtocol submission.**
 >>Briefly: After creating a new project within Qupath, move desired '.groovy' files into the 'scripts' folder. Within Qupath, the scripts should now be available to use. Once outlined regions of interest have been optimized for intensity (using the intensity script), click the detection script that matches the desired analysis (i.e. Macrophages, Cholangiocytes, Fibrosis), and then run. Each .GROOVY file used for anlaysis contains detailed notes that highlight each line's function.

@@ -1,5 +1,5 @@
 # Karpen-Lab-Liver-Quant-2023
-This repository contains all files for BioProtocols DOI:#. Included are scripts for automated batch quantification of whole-slide scanned liver sections for the purpose of understanding differences in pathology within development and disease. 
+This repository contains all files for BioProtocols DOI:#. Included are scripts for automated batch quantification of whole-slide scanned liver sections for the purpose of understanding differences in pathology within hepatobiliary development and disease. 
 
 Graphical Abstract:
 

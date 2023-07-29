@@ -15,8 +15,11 @@ def annotations = getAnnotationObjects()
 for (annotation in getAnnotationObjects()){
 x = measurement(annotation, "ROI: 1.00 µm per pixel: Residual: Mean")
 }
+
 //optimization for intensity quantification
-//keep this
+//for fibrosis with acetic acid counterstain:
+//z = (x*10)
+//for fibrosis with fast green counterstain:
 z = -(x*0.1)
 
 //get pre-saved or pre-generated Fibrosis file and write to it

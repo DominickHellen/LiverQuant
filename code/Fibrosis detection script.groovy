@@ -1,4 +1,4 @@
-//This .Groovy script is for automated batch detection of macrophages within liver sections.//
+//This .Groovy script is for automated batch detection of fibrosis within liver sections.//
 
 //This line of code is placed before and after analyzing each slide//
 //It is used to pause the current thread for 100 milliseconds//

@@ -18,7 +18,7 @@ clearSelectedObjects();
 
 // This should be deleted if you want to annotate by hand
 //Increase or decrease the 'threshold' number below to improve accuracy of automated tissue annotation
-runPlugin('qupath.imagej.detect.tissue.SimpleTissueDetection2', '{"threshold":187,"requestedPixelSizeMicrons":100.0,"minAreaMicrons":10000.0,"maxHoleAreaMicrons":1000000.0,"darkBackground":false,"smoothImage":false,"medianCleanup":true,"dilateBoundaries":false,"smoothCoordinates":true,"excludeOnBoundary":true,"singleAnnotation":true}')
+runPlugin('qupath.imagej.detect.tissue.SimpleTissueDetection2', '{"threshold":187,"requestedPixelSizeMicrons":100.0,"minAreaMicrons":10000.0,"maxHoleAreaMicrons":1000000.0,"darkBackground":false,"smoothImage":false,"medianCleanup":true,"dilateBoundaries":false,"smoothCoordinates":true,"excludeOnBoundary":false,"singleAnnotation":true}')
 
 //Selects annotations on each slide//
 selectAnnotations();

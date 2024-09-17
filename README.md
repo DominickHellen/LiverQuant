@@ -21,4 +21,4 @@ Graphical Abstract:
 >> 
 >> Bankhead P, Loughrey MB, Fernández JA, Dombrowski Y, McArt DG, Dunne PD, McQuaid S, Gray RT, Murray LJ, Coleman HG, James JA, Salto-Tellez M, Hamilton PW. QuPath: Open source software for digital pathology image analysis. Sci Rep. 2017 Dec 4;7(1):16878. doi: 10.1038/s41598-017-17204-5. PMID: 29203879; PMCID: PMC5715110.
 >>
-**Questions: dominick.hellen@emory.edu**
+**Questions: dhellen@mit.edu**
